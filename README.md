@@ -20,6 +20,7 @@ It’s a real-world tool that introduces you to patterns used in professional pr
 
 ## Installation
 
+Run this command to install the required library:
 pip install schedule
 
 ## 
