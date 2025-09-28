@@ -23,4 +23,20 @@ The schedule module is a simple and beginner-friendly Python library that makes 
 Run this command to install the required library:
 pip install schedule
 
-## 
+## Simple Working schedule Example
+
+import schedule
+import time  # Needed to keep the program running
+
+# Define a simple task
+def greet():
+    print("Hello! Task is running.")
+
+# Schedule the task every 5 seconds
+schedule.every(5).seconds.do(greet)
+
+# Keep checking for scheduled tasks
+while True:
+    schedule.run_pending()  # Run any task that is due
+    time.sleep(1)           # Pause for 1 second to avoid high CPU usage
+
