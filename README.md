@@ -23,9 +23,6 @@ The schedule module is a simple and beginner-friendly Python library that makes 
 Run this command to install the required library:
 pip install schedule
 
-import schedule
-import time  # Needed to keep the program running
-
 ## Simple schedule Example
 
 ```python
