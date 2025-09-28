@@ -28,7 +28,7 @@ import time  # Needed to keep the program running
 
 ## Simple Working schedule Example
 
-<pre> ```# Define a simple task``` </pre>
+```python # Define a simple task
 def greet():
     print("Hello! Task is running.")
 
@@ -38,4 +38,4 @@ schedule.every(5).seconds.do(greet)
 # Keep checking for scheduled tasks
 while True:
     schedule.run_pending()  # Run any task that is due
-    time.sleep(1)           # Pause for 1 second to avoid high CPU usage``` </pre>
+    time.sleep(1)           # Pause for 1 second to avoid high CPU usage``` 
