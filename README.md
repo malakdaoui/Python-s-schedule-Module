@@ -41,4 +41,4 @@ schedule.every(5).seconds.do(greet)
 
 # Keep checking for scheduled tasks
 while True:
-    schedule.run_pending()  # Run any task that is due``` 
+    schedule.run_pending()  # Run any task that is due 
