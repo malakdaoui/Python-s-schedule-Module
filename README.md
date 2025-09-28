@@ -17,3 +17,9 @@ You can schedule tasks every few seconds, minutes, hours, or even on specific da
 Seeing your tasks run automatically gives instant feedback and makes learning Python more engaging.
 
 It’s a real-world tool that introduces you to patterns used in professional programming, while still being approachable for beginners.
+
+## Installation
+
+pip install schedule
+
+## 
