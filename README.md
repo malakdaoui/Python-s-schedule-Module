@@ -12,11 +12,11 @@ The schedule module is a simple and beginner-friendly Python library that makes 
 
 ## Why It’s Fun and Interesting
 
-You can schedule tasks every few seconds, minutes, hours, or even on specific days.
+- You can schedule tasks every few seconds, minutes, hours, or even on specific days.
 
-Seeing your tasks run automatically gives instant feedback and makes learning Python more engaging.
+- Seeing your tasks run automatically gives instant feedback and makes learning Python more engaging.
 
-It’s a real-world tool that introduces you to patterns used in professional programming, while still being approachable for beginners.
+- It’s a real-world tool that introduces you to patterns used in professional programming, while still being approachable for beginners.
 
 ## Installation
 
