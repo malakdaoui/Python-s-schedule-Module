@@ -20,7 +20,7 @@ The schedule module is a simple and beginner-friendly Python library that makes 
 
 ## Installation
 
-Run this command to install the required library:
+Run this command to install the schedule library:
 pip install schedule
 
 ## Simple schedule Example
