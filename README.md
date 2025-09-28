@@ -28,8 +28,7 @@ import time  # Needed to keep the program running
 
 ## Simple Working schedule Example
 
-<pre> ```python # This is a comment print("Hello, world!") # This prints a message ``` </pre>
-<pre> ```python# Define a simple task
+<pre> ```# Define a simple task``` </pre>
 def greet():
     print("Hello! Task is running.")
 
