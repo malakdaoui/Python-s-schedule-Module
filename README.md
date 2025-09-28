@@ -26,7 +26,7 @@ pip install schedule
 import schedule
 import time  # Needed to keep the program running
 
-## Simple Working schedule Example
+## Simple schedule Example
 
 ```python
 import schedule
